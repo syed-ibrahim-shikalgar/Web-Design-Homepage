@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Montserrat:wght@400;900&family=Orbitron:wght@400;500;600;700;800;900&family=Oswald:wght@200;700&family=Poppins:ital,wght@0,400;0,500;0,600;0,800;0,900;1,400;1,500;1,600;1,800;1,900&family=Red+Rose:wght@300;400;700&family=Roboto:wght@300;500;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body {
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    background-image: url('./images/backcover\ \(1\).svg');
+    background-position: top right;
+    background-size: 47%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.image1 {
+    height: 40px;
+}
+
+.nav-items {
+    display: flex;
+    flex-direction: row;
+    color: #1F2873;
+    margin-top: 15px;
+}
+
+.nav-item {
+    margin-right: 30px;
+}
+
+.signin-btn {
+    padding: 0 30px;
+    border-radius: 40px;
+    border: none;
+    background: linear-gradient(to right, #965cf2, #ff8adc);
+    color: #fff;
+}
+
+.intro-section {
+    display: flex;
+    flex-direction: row;
+}
+
+.left-section {
+    margin-left: 90px;
+    margin-top: 9rem;
+}
+
+.left-section h1 {
+    font-size: 70px;
+    font-weight: 500;
+    color: #3E4794;
+}
+
+.left-section h4 {
+    color: #1E2353;
+    margin-top: 30px;
+    font-weight: 100;
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+.learn-more-btn {
+    background: linear-gradient(to right, #965cf2, #ff8adc);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: 300;
+    color: #fff;
+    margin-top: 70px;
+}
+
+.imgs-div {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.main {
+    height: 35rem;
+    margin-right: 55px;
+    margin-top: 20px;
+}
+
+.vector-img {
+    top: 0;
+    position: absolute;
+    height: 90px;
+    margin-top: 30rem;
+}
+
+.vector-dot {
+    height: 20px;
+    top: 0;
+    position: absolute;
+    margin-top: 30.5rem;
+    margin-left: 43px;
+}
