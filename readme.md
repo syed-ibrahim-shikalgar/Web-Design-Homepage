@@ -10,7 +10,7 @@
 
 ## Description
 
->A simple product display home page for a headphone company created by using `HTML` and `CSS`. This project is hosted on Netlify.
+>A simple web design landing page created by using `HTML` and `CSS`. This project is hosted on Netlify.
 
 **Created By**: Syed Ibrahim Shikalgar
 
@@ -18,12 +18,12 @@
 
 ## What i learned by creating this project :-
 
-- How to use CSS Flexbox and its various properties
+- How to use `CSS Flexbox` and its various properties
 
 - How to break a line
 
-- How to use CSS Position property to position images
+- How to use `CSS Position` property to position images
 
-- How to use CSS linear-gradient() function
+- How to use `CSS linear-gradient()` function
 
-## [Live-link]() of the project
+## [Live-link](https://web-desingn-landingpage.netlify.app/) of the project
