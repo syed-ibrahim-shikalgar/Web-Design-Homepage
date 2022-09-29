@@ -114,16 +114,6 @@ nav {
 }
 
 @media only screen and (max-width: 768px) {
-    .image1 {
-        left: 0%;
-        position: absolute;
-    }
-
-    .signin-btn {
-        right: 0;
-        position: absolute;
-    }
-
     .nav-items {
         display: none;
     }
